@@ -2,23 +2,23 @@ const testimonials = [
   {
     id: 1,
     name: "Sarah Johnson",
-    company: "TechNova",
+    company: "NovaTech",
     review:
-      "Nexora completely transformed our online presence. The team was professional and delivered beyond our expectations.",
+      "Nexora completely transformed our online presence. We saw a huge increase in leads within weeks.",
   },
   {
     id: 2,
-    name: "David Lee",
-    company: "GrowthHub",
+    name: "Michael Brown",
+    company: "PixelWorks",
     review:
-      "Working with Nexora was smooth from start to finish. Our website looks amazing and performs even better.",
+      "Professional team, beautiful design, and excellent communication throughout the project.",
   },
   {
     id: 3,
-    name: "Emily Carter",
-    company: "BrightLabs",
+    name: "Emily Davis",
+    company: "Bright Media",
     review:
-      "Creative design, clean code, and excellent communication. Highly recommended!",
+      "Their marketing strategy helped us grow our brand and improve customer engagement significantly.",
   },
 ];
 
